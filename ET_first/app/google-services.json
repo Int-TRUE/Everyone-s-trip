@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "699603534649",
+    "project_id": "everyone-s-trip",
+    "storage_bucket": "everyone-s-trip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699603534649:android:f7c48a409b0be59db81ee8",
+        "android_client_info": {
+          "package_name": "com.example.et_first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699603534649-q03q2cb21bba52tuj459h6uusqclonpv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.et_first",
+            "certificate_hash": "60737bb1a8025ff84d24a0c71f689d1da2e906dd"
+          }
+        },
+        {
+          "client_id": "699603534649-krlpp5o78428as59gpste41idcm1j6pb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqklVN01AXR2UKyGADv91Q43MkhjgRXDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699603534649-krlpp5o78428as59gpste41idcm1j6pb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
